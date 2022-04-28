@@ -1,0 +1,12 @@
+body{
+	background: #F0FFFF;
+	font-style: inherit;
+	color: black;
+	
+}
+
+p{
+	font-style: !important;
+	font-size: 30px;
+	color: red;
+}
